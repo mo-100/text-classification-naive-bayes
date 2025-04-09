@@ -1,0 +1,5 @@
+.idea
+__pycache__
+
+SPAM_test_set
+SPAM_training_set
